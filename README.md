@@ -1,4 +1,4 @@
-# SwiftBatchRenamer
+# Swift Batch Renamer
 
 SwiftBatchRenamer is an easy-to-use Python tool that renames files in a folder with a custom prefix and numbering system. It supports .txt and .png file formats, providing a quick solution for file organization.
 
